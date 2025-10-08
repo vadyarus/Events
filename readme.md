@@ -83,4 +83,5 @@ public class Player : MonoBehaviour {
 ```
 
 📜 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/vadyarus/Events/blob/main/LICENSE) file for details.
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/vadyarus/Events/tree/main?tab=MIT-1-ov-file#MIT-1-ov-file) file for details.
