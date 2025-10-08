@@ -24,7 +24,7 @@ You can add this package to your Unity project using the Package Manager.
 
 5.  Click **Add**.
 
-##  usage
+##  Usage
 
 ### 1. Create an Event
 
@@ -85,4 +85,5 @@ public class Player : MonoBehaviour {
 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/vadyarus/Events/tree/main?tab=MIT-1-ov-file) file for details.
+
 
