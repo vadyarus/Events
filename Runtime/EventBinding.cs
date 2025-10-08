@@ -1,6 +1,6 @@
 using System;
 
-namespace DesignSpace.Events {
+namespace VadyaRus.Events {
     public class EventBinding<T> : IEventBinding<T> where T : IEvent {
         Action<T> onEvent = _ => { };
         Action onEventNoArgs = () => { };

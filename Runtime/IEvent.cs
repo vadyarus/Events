@@ -1,5 +1,5 @@
 using UnityEngine;
 
-namespace DesignSpace.Events {
+namespace VadyaRus.Events {
     public interface IEvent {}
 }

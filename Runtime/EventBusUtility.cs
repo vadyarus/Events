@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEditor;
 #endif
 
-namespace DesignSpace.Events {
+namespace VadyaRus.Events {
     /// <summary>
     /// Contains methods and properties related to event buses and event types in the Unity application.
     /// </summary>

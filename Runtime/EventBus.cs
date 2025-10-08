@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace DesignSpace.Events {
+namespace VadyaRus.Events {
     public static class EventBus<T> where T : IEvent {
         static readonly HashSet<IEventBinding<T>> bindings;
 

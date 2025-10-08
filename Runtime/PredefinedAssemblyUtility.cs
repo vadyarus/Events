@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Reflection;
 using UnityEngine;
 
-namespace DesignSpace.Events {
+namespace VadyaRus.Events {
     internal static class PredefinedAssemblyUtility {
         /// <summary>
         /// Method looks through a given assembly and adds types that fulfill a certain interface to the provided collection.

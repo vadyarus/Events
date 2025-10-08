@@ -1,0 +1,14 @@
+{
+    "name": "com.vadyarus.events",
+    "version": "1.0.0",
+    "displayName": "VadyaRus Events",
+    "description": "A simple and lightweight event bus system for Unity, designed for decoupled communication between different parts of an application.",
+    "unity": "2020.3",
+    "author": {
+        "name": "Vadim Maltsev",
+        "email": "vadyarus@gmail.com"
+    },
+    "keywords": [
+        "events", "event bus", "messaging", "decoupling"
+    ]
+}
